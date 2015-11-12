@@ -217,7 +217,7 @@ for (my $i=0;$i<scalar@LecturaArchivo;$i++){
 
 
 
-
+#rrrrrrrrrrrrrrr
 
 
 #DR,KW(key words), pasar a archivo con todo bonito
